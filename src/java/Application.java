@@ -8,5 +8,6 @@ public class Application {
         System.out.println("开发3");
         System.out.println("开发2");
         System.out.println("hello world");
+        System.out.println("开发功能1");
     }
 }
