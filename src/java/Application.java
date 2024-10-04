@@ -7,6 +7,6 @@ public class Application {
     public static void main(String[] args) {
         System.out.println("开发2");
         System.out.println("hello world");
-        System.out.println("正式功能");
+        System.out.println("正式功能2");
     }
 }
