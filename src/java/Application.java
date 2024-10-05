@@ -12,5 +12,6 @@ public class Application {
         System.out.println("开发2");
         System.out.println("hello world");
         System.out.println("add new 1");
+        System.out.println("add new 2");
     }
 }
