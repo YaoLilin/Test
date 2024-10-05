@@ -11,6 +11,6 @@ public class Application {
         System.out.println("开发3");
         System.out.println("开发2");
         System.out.println("hello world");
-        System.out.println("正式功能4");
+        System.out.println("add new 1");
     }
 }
